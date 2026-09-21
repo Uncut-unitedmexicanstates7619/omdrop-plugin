@@ -140,7 +140,7 @@ Sending is a command: the toolbar menu has no send button yet. Turn a window on 
 
 ```bash
 omdrop on 10m                                   # a window, so devices are heard
-omdrop peers                                    # who is within earshot
+omdrop peers                                    # what is nearby
 omdrop send ~/photo.jpg                         # the only device heard
 omdrop send --to 6c:58:23 ~/photo.jpg           # any part of an address picks one
 omdrop send --wait 120 ~/photo.jpg              # keep trying for two minutes
@@ -148,6 +148,10 @@ omdrop send --verbose ~/photo.jpg               # the protocol log, for a bug re
 ```
 
 `omdrop peers` reports an address and a signal strength for each device. AWDL addresses are randomized per session, so expect them to change.
+
+`omdrop peers -n` also asks each device for its name. Asking means connecting to it, which shows this machine to every device listed, so it is opt-in.
+
+A device is named only while it is **receiving**: measured 2026-09-20, the one peer with Finder → AirDrop open answered and named itself, and seven others did not answer at all. `(no response)` says only that — nothing answered on the AirDrop port — because the cause cannot be told apart from here. `(anonymous)` means the device answered but withheld its name, which it does when it does not recognize the sender.
 
 The receiving Apple device can be set to **Everyone** or to **Contacts Only**; both work. The recipient sees a prompt naming this computer and has to accept it, exactly as they would from an Apple device.
 
